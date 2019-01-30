@@ -1,3 +1,5 @@
 // this is a test for gitflow.
 
-hotfix stuff
+
+
+this is idea 1 its pretty good.
